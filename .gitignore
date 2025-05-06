@@ -1,0 +1,6 @@
+# Test Scripts
+test.*
+
+# Directories
+__pycache__
+venv
